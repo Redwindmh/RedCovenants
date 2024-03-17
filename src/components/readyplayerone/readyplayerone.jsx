@@ -1,9 +1,9 @@
-import pieces from "../../images/pieces/covenants pieces.png"
+import pieces from "../../assets/images/pieces/covenants pieces.png"
 
 const ReadyPlayerOne = () => {
   return (
     <>
-      <h2>Player One</h2>
+      <h2 className="text-red-500">Player One</h2>
       <img src={pieces} alt="pieces" />
     </>
   )

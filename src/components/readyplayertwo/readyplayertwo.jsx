@@ -1,4 +1,4 @@
-import pieces from "../../images/pieces/covenants pieces.png"
+import pieces from "../../assets/images/pieces/covenants pieces.png"
 
 const ReadyPlayerTwo = () => {
   return (
